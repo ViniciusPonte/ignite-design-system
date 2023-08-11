@@ -7,6 +7,13 @@ export default {
     args: {
         src: 'https://github.com/ViniciusPonte.png',
         alt: 'Vinicius Ponte'
+    },
+    argTypes: {
+        src: {
+            control: {
+                type: 'text'
+            }
+        }
     }
 } as Meta<AvatarProps>
 
