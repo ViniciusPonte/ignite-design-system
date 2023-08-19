@@ -18,6 +18,7 @@
   },
   "dependencies": {
     "@storybook/addon-a11y": "6.5.12",
+    "@storybook/storybook-deployer": "^2.8.16",
     "@vponte-ignite/eslint-config": "*",
     "@vponte-ignite/react": "*",
     "@vponte-ignite/tokens": "*",
@@ -29,6 +30,7 @@
   },
   "scripts": {
     "dev": "start-storybook -p 6006",
-    "build": "build-storybook"
+    "build": "build-storybook",
+    "deploy-storybook": "storybook-to-ghpages"
   }
 }
