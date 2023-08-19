@@ -12,4 +12,6 @@ export interface BoxProps extends ComponentProps<typeof Box> {
     as?: ElementType
 }
 
+console.log('teste')
+
 Box.displayName = 'Box'
