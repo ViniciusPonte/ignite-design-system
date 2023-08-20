@@ -21,7 +21,7 @@ jobs:
           node-version: 16
 
       - name: Install Dependencies
-        run: npm
+        run: npm ci
 
       - name: Publish to npm
         id: changesets
