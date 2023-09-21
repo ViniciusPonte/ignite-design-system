@@ -1,4 +1,4 @@
-import { Box, Text, TextArea, TextAreaProps } from '@vponte-ignite/react'
+import { Box, Text, TextArea, TextAreaProps } from '@ignite-vponte/react'
 import type { StoryObj, Meta } from '@storybook/react'
 
 export default {

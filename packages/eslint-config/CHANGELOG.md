@@ -1,4 +1,10 @@
-# @vponte-ignite/eslint-config
+# @ignite-vponte/eslint-config
+
+## 3.0.0
+
+### Major Changes
+
+- change package
 
 ## 2.0.0
 

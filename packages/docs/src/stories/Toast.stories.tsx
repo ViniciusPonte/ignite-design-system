@@ -1,5 +1,5 @@
 import type { Meta, StoryObj } from '@storybook/react'
-import { Button, Toast, ToastProps } from '@vponte-ignite/react'
+import { Button, Toast, ToastProps } from '@ignite-vponte/react'
 import { useEffect, useRef, useState } from 'react'
 
 const DemoToast = (props: ToastProps) => {

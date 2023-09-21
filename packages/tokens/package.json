@@ -1,6 +1,6 @@
 {
-  "name": "@vponte-ignite/tokens",
-  "version": "3.0.0",
+  "name": "@ignite-vponte/tokens",
+  "version": "4.0.0",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
   "types": "./dist/index.d.ts",
@@ -11,8 +11,8 @@
   },
   "license": "MIT",
   "devDependencies": {
-    "@vponte-ignite/eslint-config": "*",
-    "@vponte-ignite/ts-config": "*",
+    "@ignite-vponte/eslint-config": "*",
+    "@ignite-vponte/ts-config": "*",
     "tsup": "^6.5.0",
     "typescript": "^4.9.4"
   }

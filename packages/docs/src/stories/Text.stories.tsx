@@ -1,4 +1,4 @@
-import { Text, TextProps } from '@vponte-ignite/react'
+import { Text, TextProps } from '@ignite-vponte/react'
 import type { StoryObj, Meta } from '@storybook/react'
 
 export default {

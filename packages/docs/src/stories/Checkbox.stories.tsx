@@ -1,4 +1,4 @@
-import { Box, Text, Checkbox, CheckboxProps } from '@vponte-ignite/react'
+import { Box, Text, Checkbox, CheckboxProps } from '@ignite-vponte/react'
 import type { StoryObj, Meta } from '@storybook/react'
 
 export default {

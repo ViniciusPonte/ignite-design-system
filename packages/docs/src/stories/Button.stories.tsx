@@ -1,4 +1,4 @@
-import { Button, ButtonProps } from '@vponte-ignite/react'
+import { Button, ButtonProps } from '@ignite-vponte/react'
 import {ArrowRight} from 'phosphor-react'
 import type { StoryObj, Meta } from '@storybook/react'
 

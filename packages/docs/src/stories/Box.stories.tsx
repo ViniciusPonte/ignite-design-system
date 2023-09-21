@@ -1,4 +1,4 @@
-import { Box, BoxProps, Text } from '@vponte-ignite/react'
+import { Box, BoxProps, Text } from '@ignite-vponte/react'
 import type { StoryObj, Meta } from '@storybook/react'
 
 export default {

@@ -1,4 +1,4 @@
 {
-  "extends": "@vponte-ignite/ts-config/react.json",
+  "extends": "@ignite-vponte/ts-config/react.json",
   "include": ["src"]
 }

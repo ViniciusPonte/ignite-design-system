@@ -1,4 +1,4 @@
-import { colors }  from '@vponte-ignite/tokens'
+import { colors }  from '@ignite-vponte/tokens'
 import { getContrast } from 'polished'
 
 export function ColorsGrid() {

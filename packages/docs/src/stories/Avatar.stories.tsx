@@ -1,4 +1,4 @@
-import { Avatar, AvatarProps } from '@vponte-ignite/react'
+import { Avatar, AvatarProps } from '@ignite-vponte/react'
 import type { StoryObj, Meta } from '@storybook/react'
 
 export default {

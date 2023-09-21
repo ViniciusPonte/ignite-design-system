@@ -1,3 +1,3 @@
 {
-    "extends": "@vponte-ignite/eslint-config"
+    "extends": "@ignite-vponte/eslint-config"
 }

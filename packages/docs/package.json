@@ -1,5 +1,5 @@
 {
-  "name": "@vponte-ignite/docs",
+  "name": "@ignite-vponte/docs",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
@@ -19,10 +19,10 @@
   "dependencies": {
     "@storybook/addon-a11y": "6.5.12",
     "@storybook/storybook-deployer": "^2.8.16",
-    "@vponte-ignite/eslint-config": "*",
-    "@vponte-ignite/react": "*",
-    "@vponte-ignite/tokens": "*",
-    "@vponte-ignite/ts-config": "*",
+    "@ignite-vponte/eslint-config": "*",
+    "@ignite-vponte/react": "*",
+    "@ignite-vponte/tokens": "*",
+    "@ignite-vponte/ts-config": "*",
     "phosphor-react": "^1.4.1",
     "polished": "^4.2.2",
     "react": "^18.2.0",

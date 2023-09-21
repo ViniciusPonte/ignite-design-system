@@ -1,6 +1,6 @@
 {
-  "name": "@vponte-ignite/ts-config",
-  "version": "2.0.0",
+  "name": "@ignite-vponte/ts-config",
+  "version": "3.0.0",
   "license": "MIT",
   "private": true
 }

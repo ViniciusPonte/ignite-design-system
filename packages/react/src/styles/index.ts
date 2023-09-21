@@ -7,7 +7,7 @@ import {
   lineHeights,
   radii,
   space,
-} from '@vponte-ignite/tokens'
+} from '@ignite-vponte/tokens'
 
 export const {
   styled,

@@ -30,4 +30,4 @@ export function Toast({ title, description, ...rest }: ToastProps) {
   )
 }
 
-Toast.displayName = 'Toast'
+Toast.displayName = 'ToastComponent'

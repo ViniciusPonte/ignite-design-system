@@ -1,5 +1,5 @@
 import type { StoryObj, Meta } from '@storybook/react'
-import { Box, Button, Tooltip, TooltipProps } from '@vponte-ignite/react'
+import { Box, Button, Tooltip, TooltipProps } from '@ignite-vponte/react'
 
 export default {
   title: 'Form/Tooltip',

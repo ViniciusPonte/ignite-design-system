@@ -1,4 +1,4 @@
-import { Box, MultiStep, MultiStepProps } from '@vponte-ignite/react'
+import { Box, MultiStep, MultiStepProps } from '@ignite-vponte/react'
 import type { StoryObj, Meta } from '@storybook/react'
 
 export default {

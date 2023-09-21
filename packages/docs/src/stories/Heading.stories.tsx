@@ -1,4 +1,4 @@
-import { Heading, HeadingProps } from '@vponte-ignite/react'
+import { Heading, HeadingProps } from '@ignite-vponte/react'
 import type { StoryObj, Meta } from '@storybook/react'
 
 export default {
